@@ -2,8 +2,8 @@
 # Maintainer: Zorin Arch (ZorinArch)
 
 pkgname=pamac-tray-icon-plasma
-pkgver=0.1.2
-pkgrel=2
+pkgver=10.0.2
+pkgrel=1
 pkgdesc="Pamac tray icon for plasma users"
 arch=('x86_64')
 license=('GPL3')
