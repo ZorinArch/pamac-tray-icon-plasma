@@ -1,0 +1,1 @@
+# pamac-tray-icon-plasma
