@@ -1,5 +1,5 @@
 # Maintainer: Artyom Grinyov (LordTermor)
-#Maintainer: Zorin Arch (ZorinArch)
+# Maintainer: Zorin Arch (ZorinArch)
 
 pkgname=pamac-tray-icon-plasma
 pkgver=0.1.2
